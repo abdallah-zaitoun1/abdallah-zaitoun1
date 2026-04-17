@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=220&section=header&text=Abdallah%20Zaitoun&fontSize=44&fontColor=ffffff&animation=fadeIn&textY=25" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Desktop+App+Developer;Front-End+Developer+%7C+Robotics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Desktop+App+Developer;Front-End+Developer+%7C+Robotics" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="https://www.facebook.com">
+  <a href="https://www.facebook.com/share/17Kjtj9WeZ/">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   
@@ -104,8 +104,12 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 ---
 
 ### 📊 GitHub Stats:
-<p align="center"> 
-  <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="220px" width="185px"/> 
-  <!-- Most Used Languages - bar chart --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" /> 
-  <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120px" />
+<p align="center">
+  <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="220px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="120px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120px"/>
+</p>
