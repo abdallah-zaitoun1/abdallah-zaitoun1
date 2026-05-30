@@ -13,11 +13,11 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ### 🔗 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdallah-zaitoun-133754348">
+  <a href="https://www.linkedin.com/in/abdullah-zaitoun-133754348">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://www.instagram.com/abdallah.zaytoun">
+  <a href="https://www.instagram.com/abdullah.zaitoon?igsh=ZWg1Ym8xazFxem52">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   
